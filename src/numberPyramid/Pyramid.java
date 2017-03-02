@@ -14,7 +14,6 @@ public class Pyramid {
 		height = num;
 		print(1);
 		s.close();
-		System.out.println("hello");
 	}
 	
 	
